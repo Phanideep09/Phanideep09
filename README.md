@@ -15,7 +15,7 @@ I am passionate about technology, problem solving, and building practical projec
 ## Projects
 ### 🏥 Hospital Analytics Dashboard
 Interactive Power BI dashboard for hospital insights and performance analysis.
-🔗 [View Project](https://github.com/Phanideep09/Hospital_Analytics_Dashboard)
+🔗 [View Project](https://github.com/Phanideep09/Hospital-Analytics-Dashboard)
 
 ### 🏏 IPL Analytics Dashboard
 Dashboard focused on team stats, player performance, and match insights.
