@@ -19,7 +19,7 @@ Interactive Power BI dashboard for hospital insights and performance analysis.
 
 ### 🏏 IPL Analytics Dashboard
 Dashboard focused on team stats, player performance, and match insights.
-🔗 [View Project](https://github.com/Phanideep09/IPL_ANALYTICS_DASHBOARD)
+🔗 [View Project](https://github.com/Phanideep09/IPL_ANALYTICS-2008-2015-/blob/main/IPL-DASHBOARD.pbix)
 
 ### 🗄️ Hospital SQL Analysis
 SQL queries for cleaning, filtering, aggregation, and analysis.
