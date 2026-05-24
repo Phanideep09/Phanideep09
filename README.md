@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Phanideep Reddy 👋
 
-<!--
-**Phanideep09/Phanideep09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Portfolio
 
-Here are some ideas to get you started:
+I am building projects in programming, data analysis, and problem solving using SQL, Python, and Power BI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- SQL
+- Python
+- Power BI
+- Problem Solving
+- Data Analysis
+- Visualization
+
+## Projects
+
+### Hospital Analytics Dashboard
+Interactive Power BI dashboard for hospital data analysis.
+
+### IPL Analytics Dashboard
+Power BI dashboard analyzing team performance and player insights.
+
+### Hospital SQL Analysis
+SQL queries and analysis using hospital dataset.
+
+### Amazon SQL Analysis
+SQL-based analysis of Amazon product dataset.
+
+### Amazon Python Analysis
+Python project using Pandas and Matplotlib for product analysis and visualization.
+
+## Currently Learning
+- Advanced SQL
+- Python
+- Business Analytics
+- Problem Solving
