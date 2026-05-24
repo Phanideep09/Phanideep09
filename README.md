@@ -46,3 +46,10 @@ Data cleaning and visualization using Pandas and Matplotlib.
 
 ## Goal
 To build strong technical skills and be ready for placement opportunities in software, analytics, and technology roles.
+
+## GitHub Stats
+
+![Phanideep's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Phanideep09&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Phanideep09&layout=compact&theme=dark)
+
